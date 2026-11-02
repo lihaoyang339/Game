@@ -1,0 +1,9 @@
+{
+  "name": "the-manor",
+  "productName": "The Manor",
+  "version": "0.3.0",
+  "description": "The Manor / Wrenfield — desktop wrapper (Electron) around the Vite build in ./game",
+  "main": "main.cjs",
+  "author": "The Manor project",
+  "license": "UNLICENSED"
+}

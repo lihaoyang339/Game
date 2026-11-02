@@ -1,0 +1,13 @@
+{
+    "foyer": "reachable (1 waypoints)",
+    "living": "reachable (2 waypoints)",
+    "gallery": "reachable (1 waypoints)",
+    "study": "reachable (3 waypoints)",
+    "dining": "reachable (3 waypoints)",
+    "kitchen": "reachable (8 waypoints)",
+    "corridor": "reachable (9 waypoints)",
+    "conservatory": "reachable (4 waypoints)",
+    "glass": "reachable (4 waypoints)",
+    "shortcut_corridor_to_gallery": "reachable via jib door",
+    "locked_parlour_collider": true
+}

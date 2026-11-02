@@ -1,0 +1,467 @@
+[
+ {
+  "file": "pistol_shot_1.mp3",
+  "seconds": 1.604,
+  "source": "OGA: the-free-firearm-sound-library (Walther PPQ X_31P.wav)"
+ },
+ {
+  "file": "pistol_shot_2.mp3",
+  "seconds": 1.604,
+  "source": "OGA: the-free-firearm-sound-library (Walther PPQ X_31P.wav)"
+ },
+ {
+  "file": "pistol_shot_heavy.mp3",
+  "seconds": 1.805,
+  "source": "OGA: the-free-firearm-sound-library (1911 A_34P.wav)"
+ },
+ {
+  "file": "pistol_reload.mp3",
+  "seconds": 1.579,
+  "source": "OGA: gun-reload-sounds (gunreload1.wav)"
+ },
+ {
+  "file": "zombie_moan_1.mp3",
+  "seconds": 2.88,
+  "source": "OGA: zombie-moans (Darsycho)"
+ },
+ {
+  "file": "zombie_moan_2.mp3",
+  "seconds": 2.71,
+  "source": "OGA: zombie-moans (Darsycho)"
+ },
+ {
+  "file": "zombie_moan_3.mp3",
+  "seconds": 2.39,
+  "source": "OGA: zombie-moans (Darsycho)"
+ },
+ {
+  "file": "zombie_moan_4.mp3",
+  "seconds": 1.01,
+  "source": "OGA: zombie-moans (Darsycho)"
+ },
+ {
+  "file": "zombie_moan_5.mp3",
+  "seconds": 4.22,
+  "source": "OGA: zombie-moans (Darsycho)"
+ },
+ {
+  "file": "zombie_moan_6.mp3",
+  "seconds": 1.01,
+  "source": "OGA: zombie-moans (Darsycho)"
+ },
+ {
+  "file": "zombie_moan_7.mp3",
+  "seconds": 2.1,
+  "source": "OGA: hungry-ghoul (Darsycho)"
+ },
+ {
+  "file": "zombie_moan_8.mp3",
+  "seconds": 2.22,
+  "source": "OGA: hungry-ghoul (Darsycho)"
+ },
+ {
+  "file": "zombie_moan_9.mp3",
+  "seconds": 2.32,
+  "source": "OGA: hungry-ghoul (Darsycho)"
+ },
+ {
+  "file": "zombie_moan_10.mp3",
+  "seconds": 2.48,
+  "source": "OGA: hungry-ghoul (Darsycho)"
+ },
+ {
+  "file": "zombie_moan_11.mp3",
+  "seconds": 2.34,
+  "source": "OGA: hungry-ghoul (Darsycho)"
+ },
+ {
+  "file": "zombie_moan_12.mp3",
+  "seconds": 2.29,
+  "source": "OGA: hungry-ghoul (Darsycho)"
+ },
+ {
+  "file": "zombie_moan_13.mp3",
+  "seconds": 2.42,
+  "source": "OGA: hungry-ghoul (Darsycho)"
+ },
+ {
+  "file": "zombie_moan_14.mp3",
+  "seconds": 0.88,
+  "source": "OGA: hungry-ghoul (Darsycho)"
+ },
+ {
+  "file": "zombie_moan_15.mp3",
+  "seconds": 1.09,
+  "source": "OGA: hungry-ghoul (Darsycho)"
+ },
+ {
+  "file": "zombie_moan_16.mp3",
+  "seconds": 1.01,
+  "source": "OGA: hungry-ghoul (Darsycho)"
+ },
+ {
+  "file": "zombie_moan_17.mp3",
+  "seconds": 2.276,
+  "source": "OGA: undead-moans (AntumDeluge)"
+ },
+ {
+  "file": "zombie_growl_1.mp3",
+  "seconds": 0.534,
+  "source": "OGA: 16-monster-growls (StarNinjas) monster.1.ogg"
+ },
+ {
+  "file": "zombie_growl_2.mp3",
+  "seconds": 0.755,
+  "source": "OGA: 16-monster-growls (StarNinjas) monster.2.ogg"
+ },
+ {
+  "file": "zombie_growl_3.mp3",
+  "seconds": 0.743,
+  "source": "OGA: 16-monster-growls (StarNinjas) monster.3.ogg"
+ },
+ {
+  "file": "zombie_growl_4.mp3",
+  "seconds": 0.789,
+  "source": "OGA: 16-monster-growls (StarNinjas) monster.4.ogg"
+ },
+ {
+  "file": "zombie_growl_5.mp3",
+  "seconds": 0.929,
+  "source": "OGA: 16-monster-growls (StarNinjas) monster.5.ogg"
+ },
+ {
+  "file": "zombie_growl_6.mp3",
+  "seconds": 1.265,
+  "source": "OGA: 16-monster-growls (StarNinjas) monster.6.ogg"
+ },
+ {
+  "file": "zombie_growl_7.mp3",
+  "seconds": 1.416,
+  "source": "OGA: 16-monster-growls (StarNinjas) monster.7.ogg"
+ },
+ {
+  "file": "zombie_growl_8.mp3",
+  "seconds": 1.66,
+  "source": "OGA: 16-monster-growls (StarNinjas) monster.8.ogg"
+ },
+ {
+  "file": "zombie_growl_9.mp3",
+  "seconds": 1.242,
+  "source": "OGA: 16-monster-growls (StarNinjas) monster.9.ogg"
+ },
+ {
+  "file": "zombie_growl_10.mp3",
+  "seconds": 1.149,
+  "source": "OGA: 16-monster-growls (StarNinjas) monster.10.ogg"
+ },
+ {
+  "file": "zombie_growl_11.mp3",
+  "seconds": 1.672,
+  "source": "OGA: 16-monster-growls (StarNinjas) monster.11.ogg"
+ },
+ {
+  "file": "zombie_growl_12.mp3",
+  "seconds": 0.824,
+  "source": "OGA: 16-monster-growls (StarNinjas) monster.12.ogg"
+ },
+ {
+  "file": "zombie_growl_13.mp3",
+  "seconds": 1.068,
+  "source": "OGA: 16-monster-growls (StarNinjas) monster.13.ogg"
+ },
+ {
+  "file": "zombie_growl_14.mp3",
+  "seconds": 0.987,
+  "source": "OGA: 16-monster-growls (StarNinjas) monster.14.ogg"
+ },
+ {
+  "file": "zombie_growl_15.mp3",
+  "seconds": 0.987,
+  "source": "OGA: 16-monster-growls (StarNinjas) monster.15.ogg"
+ },
+ {
+  "file": "zombie_growl_16.mp3",
+  "seconds": 1.196,
+  "source": "OGA: 16-monster-growls (StarNinjas) monster.16.ogg"
+ },
+ {
+  "file": "step_1.mp3",
+  "seconds": 0.154,
+  "source": "OGA: footsteps-0 (GboxMikeFozzy) 01-footstep.ogg"
+ },
+ {
+  "file": "step_2.mp3",
+  "seconds": 0.154,
+  "source": "OGA: footsteps-0 (GboxMikeFozzy) 01-footstep_0.ogg"
+ },
+ {
+  "file": "step_3.mp3",
+  "seconds": 0.169,
+  "source": "OGA: footsteps-0 (GboxMikeFozzy) 02-footstep.ogg"
+ },
+ {
+  "file": "step_4.mp3",
+  "seconds": 0.317,
+  "source": "OGA: footsteps-0 (GboxMikeFozzy) 03-footstep.ogg"
+ },
+ {
+  "file": "step_5.mp3",
+  "seconds": 0.333,
+  "source": "OGA: footsteps-0 (GboxMikeFozzy) 04-footstep.ogg"
+ },
+ {
+  "file": "step_6.mp3",
+  "seconds": 0.314,
+  "source": "OGA: footsteps-0 (GboxMikeFozzy) 05-footstep.ogg"
+ },
+ {
+  "file": "step_7.mp3",
+  "seconds": 0.246,
+  "source": "OGA: footsteps-0 (GboxMikeFozzy) 06-footstep.ogg"
+ },
+ {
+  "file": "door_open_01.mp3",
+  "seconds": 0.433,
+  "source": "OGA: 100-cc0-metal-and-wood-sfx (rubberduck) door_open_01.ogg"
+ },
+ {
+  "file": "metal_open_01.mp3",
+  "seconds": 1.15,
+  "source": "OGA: 100-cc0-metal-and-wood-sfx (rubberduck) metal_open_01.ogg"
+ },
+ {
+  "file": "metal_close_01.mp3",
+  "seconds": 0.869,
+  "source": "OGA: 100-cc0-metal-and-wood-sfx (rubberduck) metal_close_01.ogg"
+ },
+ {
+  "file": "metal_slam_01.mp3",
+  "seconds": 0.573,
+  "source": "OGA: 100-cc0-metal-and-wood-sfx (rubberduck) metal_slam_01.ogg"
+ },
+ {
+  "file": "metal_hit_01.mp3",
+  "seconds": 0.269,
+  "source": "OGA: 100-cc0-metal-and-wood-sfx (rubberduck) metal_hit_01.ogg"
+ },
+ {
+  "file": "metal_hit_03.mp3",
+  "seconds": 0.395,
+  "source": "OGA: 100-cc0-metal-and-wood-sfx (rubberduck) metal_hit_03.ogg"
+ },
+ {
+  "file": "metal_falling_01.mp3",
+  "seconds": 1.786,
+  "source": "OGA: 100-cc0-metal-and-wood-sfx (rubberduck) metal_falling_01.ogg"
+ },
+ {
+  "file": "metal_sheet_02.mp3",
+  "seconds": 0.432,
+  "source": "OGA: 100-cc0-metal-and-wood-sfx (rubberduck) metal_sheet_02.ogg"
+ },
+ {
+  "file": "keys_01.mp3",
+  "seconds": 0.41,
+  "source": "OGA: 100-cc0-metal-and-wood-sfx (rubberduck) keys_01.ogg"
+ },
+ {
+  "file": "keys_03.mp3",
+  "seconds": 0.482,
+  "source": "OGA: 100-cc0-metal-and-wood-sfx (rubberduck) keys_03.ogg"
+ },
+ {
+  "file": "lock_open_01.mp3",
+  "seconds": 0.737,
+  "source": "OGA: 100-cc0-metal-and-wood-sfx (rubberduck) lock_open_01.ogg"
+ },
+ {
+  "file": "tools_02.mp3",
+  "seconds": 0.45,
+  "source": "OGA: 100-cc0-metal-and-wood-sfx (rubberduck) tools_02.ogg"
+ },
+ {
+  "file": "metal_spring_01.mp3",
+  "seconds": 0.585,
+  "source": "OGA: 100-cc0-metal-and-wood-sfx (rubberduck) metal_spring_01.ogg"
+ },
+ {
+  "file": "misc_04.mp3",
+  "seconds": 0.593,
+  "source": "OGA: 100-cc0-metal-and-wood-sfx (rubberduck) misc_04.ogg"
+ },
+ {
+  "file": "door_doorlock.mp3",
+  "seconds": 0.286,
+  "source": "OGA: door-lock-sounds (Cough-E) DoorLock.wav"
+ },
+ {
+  "file": "door_unlockdoor.mp3",
+  "seconds": 0.568,
+  "source": "OGA: door-lock-sounds (Cough-E) UnlockDoor.wav"
+ },
+ {
+  "file": "door_dooropen.mp3",
+  "seconds": 0.614,
+  "source": "OGA: door-lock-sounds (Cough-E) DoorOpen.wav"
+ },
+ {
+  "file": "door_lockeddoorhandlejiggle.mp3",
+  "seconds": 0.934,
+  "source": "OGA: door-lock-sounds (Cough-E) LockedDoorHandleJiggle.wav"
+ },
+ {
+  "file": "door_creak.mp3",
+  "seconds": 4.319,
+  "source": "OGA: creaky-door-hinge-spooky"
+ },
+ {
+  "file": "flesh_1_1.mp3",
+  "seconds": 0.8,
+  "source": "OGA: 2-wooden-squish-splatter-sequences (qubodup) crack11.mp3.flac"
+ },
+ {
+  "file": "flesh_1_2.mp3",
+  "seconds": 0.8,
+  "source": "OGA: 2-wooden-squish-splatter-sequences (qubodup) crack11.mp3.flac"
+ },
+ {
+  "file": "flesh_1_3.mp3",
+  "seconds": 0.8,
+  "source": "OGA: 2-wooden-squish-splatter-sequences (qubodup) crack11.mp3.flac"
+ },
+ {
+  "file": "flesh_2_1.mp3",
+  "seconds": 0.56,
+  "source": "OGA: 2-wooden-squish-splatter-sequences (qubodup) crack12.mp3.flac"
+ },
+ {
+  "file": "flesh_2_2.mp3",
+  "seconds": 0.37,
+  "source": "OGA: 2-wooden-squish-splatter-sequences (qubodup) crack12.mp3.flac"
+ },
+ {
+  "file": "flesh_2_3.mp3",
+  "seconds": 0.08,
+  "source": "OGA: 2-wooden-squish-splatter-sequences (qubodup) crack12.mp3.flac"
+ },
+ {
+  "file": "flesh_2_4.mp3",
+  "seconds": 0.8,
+  "source": "OGA: 2-wooden-squish-splatter-sequences (qubodup) crack12.mp3.flac"
+ },
+ {
+  "file": "spark.mp3",
+  "seconds": 0.337,
+  "source": "OGA: electricity-sound-effects-0 (BMacZero) spark.wav"
+ },
+ {
+  "file": "spark_loop.mp3",
+  "seconds": 0.218,
+  "source": "OGA: electricity-sound-effects-0 (BMacZero) continuousspark.wav"
+ },
+ {
+  "file": "generator_loop.mp3",
+  "seconds": 5.118,
+  "source": "OGA: generator-loop (YCbCr)"
+ },
+ {
+  "file": "ambient_horror.mp3",
+  "seconds": 20.687,
+  "source": "OGA: ambient-horror (techiew)"
+ },
+ {
+  "file": "hum_loop.mp3",
+  "seconds": 3.0,
+  "source": "synthesized (tools/build-audio.py)"
+ },
+ {
+  "file": "fluor_buzz_loop.mp3",
+  "seconds": 2.0,
+  "source": "synthesized (tools/build-audio.py)"
+ },
+ {
+  "file": "drone_loop.mp3",
+  "seconds": 8.0,
+  "source": "synthesized (tools/build-audio.py)"
+ },
+ {
+  "file": "heartbeat.mp3",
+  "seconds": 1.0,
+  "source": "synthesized (tools/build-audio.py)"
+ },
+ {
+  "file": "drip.mp3",
+  "seconds": 0.35,
+  "source": "synthesized (tools/build-audio.py)"
+ },
+ {
+  "file": "ui_move.mp3",
+  "seconds": 0.05,
+  "source": "synthesized (tools/build-audio.py)"
+ },
+ {
+  "file": "ui_confirm.mp3",
+  "seconds": 0.25,
+  "source": "synthesized (tools/build-audio.py)"
+ },
+ {
+  "file": "ui_back.mp3",
+  "seconds": 0.2,
+  "source": "synthesized (tools/build-audio.py)"
+ },
+ {
+  "file": "item_get.mp3",
+  "seconds": 1.4,
+  "source": "synthesized (tools/build-audio.py)"
+ },
+ {
+  "file": "ui_error.mp3",
+  "seconds": 0.35,
+  "source": "synthesized (tools/build-audio.py)"
+ },
+ {
+  "file": "dry_fire.mp3",
+  "seconds": 0.083,
+  "source": "synthesized (tools/build-audio.py)"
+ },
+ {
+  "file": "casing.mp3",
+  "seconds": 0.9,
+  "source": "synthesized (tools/build-audio.py)"
+ },
+ {
+  "file": "stinger.mp3",
+  "seconds": 3.5,
+  "source": "synthesized (tools/build-audio.py)"
+ },
+ {
+  "file": "gate_motor_loop.mp3",
+  "seconds": 2.0,
+  "source": "synthesized (tools/build-audio.py)"
+ },
+ {
+  "file": "alarm_loop.mp3",
+  "seconds": 1.2,
+  "source": "synthesized (tools/build-audio.py)"
+ },
+ {
+  "file": "power_up.mp3",
+  "seconds": 2.5,
+  "source": "synthesized (tools/build-audio.py)"
+ },
+ {
+  "file": "relay_clunk.mp3",
+  "seconds": 0.4,
+  "source": "synthesized (tools/build-audio.py)"
+ },
+ {
+  "file": "swing.mp3",
+  "seconds": 0.35,
+  "source": "synthesized (tools/build-audio.py)"
+ },
+ {
+  "file": "impact_concrete.mp3",
+  "seconds": 0.25,
+  "source": "synthesized (tools/build-audio.py)"
+ }
+]

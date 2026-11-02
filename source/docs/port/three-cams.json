@@ -1,0 +1,272 @@
+[
+ {
+  "id": "foyer_entry",
+  "room": "foyer",
+  "pos": [
+   3.25,
+   3.95,
+   0.75
+  ],
+  "look": [
+   -0.7,
+   1.05,
+   6.7
+  ],
+  "fov": 52
+ },
+ {
+  "id": "foyer_north",
+  "room": "foyer",
+  "pos": [
+   -3.3,
+   2.25,
+   7.55
+  ],
+  "look": [
+   0.9,
+   1.45,
+   0.4
+  ],
+  "fov": 56
+ },
+ {
+  "id": "living_west",
+  "room": "living",
+  "pos": [
+   4.75,
+   3.55,
+   -0.6
+  ],
+  "look": [
+   10.9,
+   0.65,
+   4.9
+  ],
+  "fov": 44
+ },
+ {
+  "id": "living_fire",
+  "room": "living",
+  "pos": [
+   12.85,
+   3.2,
+   8.55
+  ],
+  "look": [
+   7.2,
+   0.85,
+   2
+  ],
+  "fov": 46
+ },
+ {
+  "id": "living_glass",
+  "room": "living",
+  "pos": [
+   4.8,
+   3,
+   8.55
+  ],
+  "look": [
+   11,
+   1,
+   0.2
+  ],
+  "fov": 46
+ },
+ {
+  "id": "gallery_east",
+  "room": "gallery",
+  "pos": [
+   3.2,
+   2.45,
+   -1.05
+  ],
+  "look": [
+   -14,
+   0.95,
+   -2
+  ],
+  "fov": 48
+ },
+ {
+  "id": "gallery_west",
+  "room": "gallery",
+  "pos": [
+   -15.5,
+   2.45,
+   -0.75
+  ],
+  "look": [
+   1.5,
+   1,
+   -2.2
+  ],
+  "fov": 48
+ },
+ {
+  "id": "study_door",
+  "room": "study",
+  "pos": [
+   1.95,
+   3.05,
+   -3.95
+  ],
+  "look": [
+   -3.9,
+   0.85,
+   -9.8
+  ],
+  "fov": 54
+ },
+ {
+  "id": "study_desk",
+  "room": "study",
+  "pos": [
+   -5.15,
+   2.35,
+   -11.15
+  ],
+  "look": [
+   1.4,
+   1,
+   -4.8
+  ],
+  "fov": 54
+ },
+ {
+  "id": "dining_door",
+  "room": "dining",
+  "pos": [
+   -7.45,
+   3.35,
+   -4.05
+  ],
+  "look": [
+   -13.9,
+   0.8,
+   -10.3
+  ],
+  "fov": 54
+ },
+ {
+  "id": "dining_window",
+  "room": "dining",
+  "pos": [
+   -15.25,
+   2.05,
+   -11.15
+  ],
+  "look": [
+   -8.4,
+   1,
+   -4.6
+  ],
+  "fov": 54
+ },
+ {
+  "id": "kitchen_east",
+  "room": "kitchen",
+  "pos": [
+   -18.25,
+   2.95,
+   -4.05
+  ],
+  "look": [
+   -23.3,
+   0.75,
+   -10.7
+  ],
+  "fov": 56
+ },
+ {
+  "id": "kitchen_range",
+  "room": "kitchen",
+  "pos": [
+   -24.05,
+   2.55,
+   -4.1
+  ],
+  "look": [
+   -19.6,
+   0.95,
+   -11.2
+  ],
+  "fov": 56
+ },
+ {
+  "id": "corridor_east",
+  "room": "corridor",
+  "pos": [
+   -16.75,
+   2.35,
+   -1.72
+  ],
+  "look": [
+   -24.3,
+   0.95,
+   -2.75
+  ],
+  "fov": 50
+ },
+ {
+  "id": "corridor_west",
+  "room": "corridor",
+  "pos": [
+   -24.15,
+   2.3,
+   -1.68
+  ],
+  "look": [
+   -16.6,
+   1,
+   -2.85
+  ],
+  "fov": 50
+ },
+ {
+  "id": "conserv_sw",
+  "room": "conservatory",
+  "pos": [
+   6.95,
+   2.85,
+   -4.95
+  ],
+  "look": [
+   14.6,
+   0.55,
+   -11.2
+  ],
+  "fov": 56
+ },
+ {
+  "id": "conserv_ne",
+  "room": "conservatory",
+  "pos": [
+   16.05,
+   1.85,
+   -12.05
+  ],
+  "look": [
+   8,
+   1.4,
+   -5
+  ],
+  "fov": 56
+ },
+ {
+  "id": "glass_corridor",
+  "room": "glass",
+  "pos": [
+   11.2,
+   2.45,
+   -1.45
+  ],
+  "look": [
+   11.4,
+   0.9,
+   -8.6
+  ],
+  "fov": 52
+ }
+]

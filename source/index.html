@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Manor</title>
+<style>
+  html,body{margin:0;height:100%;background:#000;overflow:hidden;font-family:Georgia,'Times New Roman',serif;color:#d8d0c0}
+  #loading{position:fixed;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#050404;z-index:10;transition:opacity 1s}
+  #loading h1{font-weight:normal;letter-spacing:.5em;font-size:28px;margin:0 0 24px;color:#cfc6b2}
+  #bar{width:280px;height:2px;background:#221d18}#bar i{display:block;height:100%;width:0;background:#a8916a}
+  #hud{position:fixed;left:16px;bottom:14px;font-size:13px;letter-spacing:.08em;color:rgba(220,210,190,.55);pointer-events:none}
+  #prompt{position:fixed;left:50%;bottom:16%;transform:translateX(-50%);padding:6px 16px;border:1px solid rgba(210,195,160,.35);background:rgba(10,8,6,.55);color:#e6dcc4;font-size:15px;letter-spacing:.15em;display:none}
+  #msg{position:fixed;left:50%;bottom:7%;transform:translateX(-50%);max-width:70%;text-align:center;font-size:19px;line-height:1.6;color:#efe6d2;text-shadow:0 0 6px #000,0 0 2px #000;opacity:0;transition:opacity .4s}
+  #debug{position:fixed;right:10px;top:8px;font:11px monospace;color:#7c7;white-space:pre;display:none}
+</style>
+</head>
+<body>
+<div id="loading"><h1>THE MANOR</h1><div id="bar"><i></i></div></div>
+<div id="hud"></div><div id="prompt"></div><div id="msg"></div><div id="debug"></div>
+<script type="module" src="./src/main.js"></script>
+</body></html>

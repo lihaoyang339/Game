@@ -1,0 +1,32 @@
+{
+  "name": "the-manor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "assets": "node tools/fetch-polyhaven.mjs && node tools/build-assets.mjs",
+    "map:validate": "node tools/validate-map.mjs",
+    "map:geo": "node tests/map-geo-test.mjs",
+    "map:walk": "node tests/map-walk.mjs",
+    "test:map": "node tools/validate-map.mjs && node tests/map-geo-test.mjs && node tests/map-walk.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "@gltf-transform/core": "^4.1.1",
+    "@gltf-transform/extensions": "^4.1.1",
+    "@gltf-transform/functions": "^4.1.1",
+    "meshoptimizer": "^0.22.0",
+    "sharp": "^0.33.5",
+    "vite": "^5.4.11"
+  }
+}

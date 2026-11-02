@@ -1,0 +1,20 @@
+{
+ "res": [
+  {
+   "cam": "foyer_entry",
+   "calls": 1,
+   "tris": 1,
+   "renderMs": 9.5
+  },
+  {
+   "cam": "foyer_north",
+   "calls": 1,
+   "tris": 1,
+   "renderMs": 8.7
+  }
+ ],
+ "errs": [
+  "[assets] Event",
+  "[assets] Event"
+ ]
+}

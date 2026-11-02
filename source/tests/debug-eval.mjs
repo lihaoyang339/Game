@@ -1,0 +1,10 @@
+import { chromium } from 'playwright';
+const code = process.argv[2];
+const b = await chromium.launch({ args: ['--use-angle=swiftshader', '--enable-unsafe-swiftshader'] });
+const p = await b.newPage({ viewport: { width: 640, height: 360 } }); p.setDefaultTimeout(600000);
+const errs = []; p.on('pageerror', (e) => errs.push(String(e))); p.on('console', (m) => { if (['error', 'warning'].includes(m.type())) errs.push(m.text().slice(0, 300)); });
+await p.goto(`http://localhost:${process.env.PORT || 5175}/?q=${process.env.Q || 'low'}`);
+await p.waitForFunction(() => window.__manor && window.__manor.ready(), null, { timeout: 600000 });
+console.log(JSON.stringify(await p.evaluate(code), null, 1));
+console.log('ERRS', errs.slice(0, 12));
+await b.close();
